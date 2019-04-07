@@ -1,5 +1,7 @@
 # vmware-powercli-psmodule
 
+Chocolatey package for VMware PowerCLI
+
 [![Latest version released](https://img.shields.io/chocolatey/v/vmware-powercli-psmodule.svg)](https://chocolatey.org/packages/vmware-powercli-psmodule)
 [![Package downloads count](https://img.shields.io/chocolatey/dt/vmware-powercli-psmodule.svg)](https://chocolatey.org/packages/vmware-powercli-psmodule)
 [![Build status](https://img.shields.io/appveyor/ci/virtualex-itv/choco-vmware-powercli-psmodule/master.svg?logo=appveyor)](https://ci.appveyor.com/project/virtualex-itv/choco-vmware-powercli-psmodule  )
