@@ -1,0 +1,1 @@
+# choco-vmware-powercli-psmodule
