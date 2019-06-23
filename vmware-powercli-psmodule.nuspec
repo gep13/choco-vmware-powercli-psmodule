@@ -37,7 +37,7 @@
 
       ---
 	</description>
-	<releaseNotes>https://vdc-repo.vmware.com/vmwb-repository/dcr-public/1607cbf1-ac1a-4692-964f-7fca6bd9b564/64d6ff56-48dd-49ed-a507-0ca17536dafd/vmware-powercli-112-release-notes.html</releaseNotes>
+	<releaseNotes>https://code.vmware.com/docs/9009/vmware-powercli-11-3-0-release-notes</releaseNotes>
     <dependencies>
 	  <dependency id="dotnet4.5" />
       <dependency id="powershell" version="5.0" />
