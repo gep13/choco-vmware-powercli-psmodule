@@ -1,7 +1,10 @@
-version: 11.2.0.12780525.{build}
+version: 11.3.0.13990089.{build}
 environment:
   TOKEN:
     secure: 7vdY1FDIcMA9+2GbVc/cmQSEDVPeypkvbLAkK1M7RzHyBuVBZh3wdLy5dElG3K7G
+
+before_build:
+  - ps: cup chocolatey -y
 
 build_script:
   - ps: choco pack
