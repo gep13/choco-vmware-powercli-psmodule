@@ -9,7 +9,7 @@
     <title>VMware.PowerCLI (Install)</title>
     <authors>VMware</authors>
     <projectUrl>https://www.powershellgallery.com/packages/VMware.PowerCLI</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/bcurran3/ChocolateyPackages/master/vmware-powercli-psmodule/vmware-powercli-psmodule_icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-vmware-powercli-psmodule/756178892aa00331eca693b80b5fbb9c137a575f/_icon/PowerCLI.png</iconUrl>
     <copyright>Copyright (c) 2019 VMware, Inc. All rights reserved.</copyright>
 	<docsUrl>https://vdc-download.vmware.com/vmwb-repository/dcr-public/f2cbec1b-fa62-4ec3-9435-cb009ec3c9dc/6e857f9d-deff-4e18-ad60-f5f0e873837e/vmware-powercli-113-user-guide.pdf</docsUrl>
 	<mailingListUrl>https://code.vmware.com/forums/2530/vmware-powercli</mailingListUrl>
