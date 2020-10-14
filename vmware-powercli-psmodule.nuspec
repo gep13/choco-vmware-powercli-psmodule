@@ -3,15 +3,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>vmware-powercli-psmodule</id>
-    <version>12.0.0.15947286</version>
+    <version>12.1.0.17009493</version>
     <owners>bcurran3 virtualex</owners>
     <packageSourceUrl>https://github.com/virtualex-itv/choco-vmware-powercli-psmodule/tree/master</packageSourceUrl>
-    <title>VMware.PowerCLI (Install)</title>
+    <title>VMware.PowerCLI (PowerShell Module)</title>
     <authors>VMware</authors>
     <projectUrl>https://www.powershellgallery.com/packages/VMware.PowerCLI</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-vmware-powercli-pwsh/3cc9f1b38c5339c57416a0ea0f3b3fc0fb62a75e/_icon/powercli.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-vmware-powercli-psmodule/9bcd403832a016addc1344be75e628d36c2a0b1c/_icon/PowerCLI.png</iconUrl>
     <copyright>Copyright (c) 2020 VMware, Inc. All rights reserved.</copyright>
-	<docsUrl>https://code.vmware.com/docs/11860/powercli-12-0-0-user-s-guide</docsUrl>
+	<docsUrl>https://code.vmware.com/docs/12648/powercli-12-1-0-user-s-guide</docsUrl>
 	<mailingListUrl>https://code.vmware.com/forums/2530/vmware-powercli</mailingListUrl>
     <licenseUrl>https://www.vmware.com/help/legal.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -35,7 +35,7 @@
 
       ---
 	</description>
-	<releaseNotes>https://vdc-download.vmware.com/vmwb-repository/dcr-public/f0d2eb5d-3181-4c40-8450-84d3117598a8/6c49bc2e-10c6-4494-92e5-33408e5c0747/vmware-powercli-12-release-notes.html</releaseNotes>
+	<releaseNotes>https://code.vmware.com/docs/12645/vmware-powercli-12-1-0-release-notes</releaseNotes>
     <dependencies>
 	  <dependency id="dotnet4.5" />
       <dependency id="powershell" version="5.0" />
