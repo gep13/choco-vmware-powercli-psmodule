@@ -18,4 +18,4 @@ Chocolatey package for VMware PowerCLI
 * Uninstall may fail if you've used any of the modules within the current PowerShell. If you are uninstalling from CMD.EXE - have no fear.
 * This package will also create a shortcut on the desktop, and import the module upon launch to have the same look/feel like the legacy .exe installer version.
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-vmware-powercli-psmodule/4366bdee0428d310c126bb0ed4e98e56413ad96e/_img/choco-powercli-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-vmware-powercli-psmodule/4166e9f1cd32c4defb5837631e829536d1e4b9e9/_img/choco-powercli-test.png)
